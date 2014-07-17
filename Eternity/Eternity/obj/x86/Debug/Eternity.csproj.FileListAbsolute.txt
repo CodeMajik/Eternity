@@ -1,0 +1,10 @@
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\bin\x86\Debug\Content\floor.xnb
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\bin\x86\Debug\Content\grass.xnb
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\bin\x86\Debug\Content\tree.xnb
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\bin\x86\Debug\Content\clear.xnb
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\bin\x86\Debug\Content\player.xnb
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\bin\x86\Debug\Eternity.exe
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\bin\x86\Debug\Eternity.pdb
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\obj\x86\Debug\Eternity.exe
+C:\Users\johnogorman\Documents\GitHub\Eternity\Eternity\Eternity\obj\x86\Debug\Eternity.pdb

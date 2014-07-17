@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eternity", "Eternity\Eternity\Eternity.csproj", "{F098E245-2697-4734-8E2C-93FC958DE74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EternityContent", "Eternity\EternityContent\EternityContent.contentproj", "{253A9D63-BAD4-4129-BBFD-136AB712D6BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelEditor", "LevelEditor\LevelEditor\LevelEditor.csproj", "{78C29FA4-8EF6-4DAE-A53E-FD181CB76C59}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LevelEditorContent", "LevelEditor\LevelEditorContent\LevelEditorContent.contentproj", "{18E8F56E-F78B-4A7F-89FA-222F66C17E86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F098E245-2697-4734-8E2C-93FC958DE74B}.Debug|x86.ActiveCfg = Debug|x86
+		{F098E245-2697-4734-8E2C-93FC958DE74B}.Debug|x86.Build.0 = Debug|x86
+		{F098E245-2697-4734-8E2C-93FC958DE74B}.Release|x86.ActiveCfg = Release|x86
+		{F098E245-2697-4734-8E2C-93FC958DE74B}.Release|x86.Build.0 = Release|x86
+		{253A9D63-BAD4-4129-BBFD-136AB712D6BD}.Debug|x86.ActiveCfg = Debug|x86
+		{253A9D63-BAD4-4129-BBFD-136AB712D6BD}.Release|x86.ActiveCfg = Release|x86
+		{78C29FA4-8EF6-4DAE-A53E-FD181CB76C59}.Debug|x86.ActiveCfg = Debug|x86
+		{78C29FA4-8EF6-4DAE-A53E-FD181CB76C59}.Debug|x86.Build.0 = Debug|x86
+		{78C29FA4-8EF6-4DAE-A53E-FD181CB76C59}.Release|x86.ActiveCfg = Release|x86
+		{78C29FA4-8EF6-4DAE-A53E-FD181CB76C59}.Release|x86.Build.0 = Release|x86
+		{18E8F56E-F78B-4A7F-89FA-222F66C17E86}.Debug|x86.ActiveCfg = Debug|x86
+		{18E8F56E-F78B-4A7F-89FA-222F66C17E86}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
